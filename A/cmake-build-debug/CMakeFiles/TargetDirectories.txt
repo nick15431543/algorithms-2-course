@@ -1,0 +1,3 @@
+/home/nikita/CLionProjects/алгоритмы 3 сем/1 контест/A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/CLionProjects/алгоритмы 3 сем/1 контест/A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/CLionProjects/алгоритмы 3 сем/1 контест/A/cmake-build-debug/CMakeFiles/A.dir
